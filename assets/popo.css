@@ -1,0 +1,42 @@
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Mogul';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/Mogul-Magistral.woff') format('woff');
+}
+/* End Custom Fonts CSS */
+
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Mogul bold';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../fonts/Mogul-Magistral-Bold.woff') format('woff');
+}
+
+.header-logo img {
+    height: 60px;
+}
+
+.header-menu-wrap ul li>a{
+    margin:0 10px;
+}
+
+.post-content h3 a{
+    font-family: 'Mogul bold';
+}
+
+.hero-content img{
+    width: 800px;
+    margin: 0px auto 0px;
+}
+
+.video-item{
+
+}
+
+.video-item .play-btn{
+    position: absolute;
+    left: 50%;;
+}
